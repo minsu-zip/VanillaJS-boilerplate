@@ -1,11 +1,11 @@
-# vanillaJS-boilerplate
+# VanillaJS-boilerplate
 
 ## Getting Started
 
 ### Clone Repository
 
 ```
-git clone https://github.com/minsu-zip/vanillaJS-boilerplate.git
+git clone https://github.com/minsu-zip/VanillaJS-boilerplate.git
 ```
 
 ### install Packages
